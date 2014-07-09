@@ -1,3 +1,3 @@
-#MonoLibraries [![Build Status](https://travis-ci.org/Jakosa/MonoLibraries.png?branch=master)](https://travis-ci.org/Jakosa/MonoLibraries)
+#MonoLibraries [![Build Status](https://travis-ci.org/Schumix/MonoLibraries.png?branch=master)](https://travis-ci.org/Schumix/MonoLibraries)
 
 Mono Libraries
